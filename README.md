@@ -36,3 +36,6 @@ If you need the contact form to work, you also need to create an EmailJS account
 
 # progress
 # yarn install yarn start, if not working, delete node_modules and yarn.lock 
+
+## Feb 11:
+### talk with Grace regarding detail, considering buying new domain name
