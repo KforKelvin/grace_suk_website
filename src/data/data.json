@@ -1,22 +1,22 @@
 {
   "Header": {
-    "title": "Grace Care",
+    "title": "GS Home Care Service",
     "paragraph": "(introduction about the company)"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "(feature)",
+      "title": "Great Service",
       "text": "(insert parapgraph)"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "(feature)",
+      "title": "Good Semaritan",
       "text": "(insert parapgraph)"
     },
     {
       "icon": "fa fa-group",
-      "title": "(feature)",
+      "title": "Good Shepherd",
       "text": "(insert parapgraph)"
     },
     {
@@ -26,7 +26,7 @@
     }
   ],
   "About": {
-    "paragraph": "(insert paragraph here)",
+    "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
     "Why": [
       "bullet point1",
       "bullet point2"
@@ -39,33 +39,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "(Service 1)",
-      "text": "(insert paragraph)"
+      "name": "Personal Care",
+      "text": "Bathing, Dressing, Grooming, Toileting"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "(Service 2)",
-      "text": "(insert paragraph)"
+      "name": "Companionship ",
+      "text": "Social Interaction and Emotional Support"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "(Service 3)",
-      "text": "(insert paragraph)"
+      "name": "Household Assistance",
+      "text": "Light housekeeping, Preparation, and Laundry"
     },
     {
       "icon": "fa fa-language",
-      "name": "(Service 4)",
-      "text": "(insert paragraph)"
+      "name": "Mobility Support",
+      "text": "Transfers, Ambulation assistance"
     },
     {
       "icon": "fa fa-plane",
-      "name": "(Service 5)",
-      "text": "(insert paragraph)"
+      "name": "Medication Reminders",
+      "text": "Ensuring client take prescribed medication on time"
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "(Service 6)",
-      "text": "(insert paragraph)"
+      "name": "Respite Care",
+      "text": "Temporary relief for family caregivers"
     }
   ],
   "Gallery": [
