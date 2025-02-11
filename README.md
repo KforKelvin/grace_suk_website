@@ -32,3 +32,7 @@ If you need the contact form to work, you also need to create an EmailJS account
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
 ##### Issaaf kattan -->
+
+
+# progress
+# yarn install yarn start, if not working, delete node_modules and yarn.lock 
