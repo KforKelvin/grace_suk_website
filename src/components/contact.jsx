@@ -150,7 +150,7 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      {/* <div id="footer">
+      <div id="footer">
         <div className="container text-center">
           <p>
             &copy; Web Design by {" "}
@@ -159,7 +159,7 @@ export const Contact = (props) => {
             </a>
           </p>
         </div>
-      </div> */}
+      </div>
     </div>
   );
 };
