@@ -8,7 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            (Gallery paragraph)
+            {/* (Gallery paragraph) */}
           </p>
         </div>
         <div className="row">
