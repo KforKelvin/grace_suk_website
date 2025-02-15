@@ -1,181 +1,548 @@
 {
-  "Header": {
-    "title": "GS Home Care Service",
-    "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Great Service",
-      "text": "We pride ourselves on going above and beyond the standard of care. From attentive daily support to prompt communication, our team is here to ensure you always feel heard, respected, and well cared for."
+  "en":
+  {
+    "Header": {
+      "title": "GS Home Care Service",
+      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
     },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Good Samaritan",
-      "text": "Compassion and empathy guide everything we do. Our caregivers are ready to lend a listening ear, offer a helping hand, and provide genuine companionship, bringing warmth and support into your everyday life."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Good Shepherd",
-      "text": "Trust and guidance are at the heart of our approach. We work alongside you or your loved ones, helping maintain independence while ensuring a nurturing environment, so you always feel confident and safe in our care."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Golden Standard",
-      "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
-    }
-  ],
-  "About": {
-    "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
-    "Why": [
-      "Timely, Reliable Support",
-      "Personalized Care Plans"
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Great Service",
+        "text": "We pride ourselves on going above and beyond the standard of care. From attentive daily support to prompt communication, our team is here to ensure you always feel heard, respected, and well cared for."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Good Samaritan",
+        "text": "Compassion and empathy guide everything we do. Our caregivers are ready to lend a listening ear, offer a helping hand, and provide genuine companionship, bringing warmth and support into your everyday life."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Good Shepherd",
+        "text": "Trust and guidance are at the heart of our approach. We work alongside you or your loved ones, helping maintain independence while ensuring a nurturing environment, so you always feel confident and safe in our care."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Golden Standard",
+        "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
+      }
     ],
-    "Why2": [
-      "Compassionate, Dedicated Team",
-      "Peace of Mind for your family"
-    ]
+    "About": {
+      "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "Why": [
+        "Timely, Reliable Support",
+        "Personalized Care Plans"
+      ],
+      "Why2": [
+        "Compassionate, Dedicated Team",
+        "Peace of Mind for your family"
+      ]
+    },
+    "Services": [
+      {
+        "icon": "fa fa-heart-o",
+        "name": "Personal Care",
+        "text": "Bathing, Dressing, Grooming, Toileting"
+      },
+      {
+        "icon": "fa fa-users",
+        "name": "Companionship ",
+        "text": "Social Interaction and Emotional Support"
+      },
+      {
+        "icon": "fa fa-briefcase",
+        "name": "Household Assistance",
+        "text": "Light housekeeping, Preparation, and Laundry"
+      },
+      {
+        "icon": "fa fa-car",
+        "name": "Mobility Support",
+        "text": "Transfers, Ambulation assistance"
+      },
+      {
+        "icon": "fa fa-bell",
+        "name": "Medication Reminders",
+        "text": "Ensuring client take prescribed medication on time"
+      },
+      {
+        "icon": "fa fa-medkit",
+        "name": "Respite Care",
+        "text": "Temporary relief for family caregivers"
+      }
+    ],
+    "Gallery": [
+      {
+        "title": "Picture 1",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Picture 2",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Picture 3",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Picture 4",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Picture 5",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Picture 6",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Picture 7",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Picture 8",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Picture 9",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "(insert sentences)",
+        "name": "(client1)"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "(insert sentences)",
+        "name": "(client2)"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "(insert sentences)",
+        "name": "(client3)"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "(insert sentences)",
+        "name": "(client4)"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "(insert sentences)",
+        "name": "(client5)"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "(insert sentences)",
+        "name": "(client6)"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ],
+    "Contact": {
+      "address": "867 Frostwood Dr, Houston, 77024",
+      "phone": "+1 (346)-324-8549",
+      "email": "gscare2u@gmail.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    }
   },
-  "Services": [
-    {
-      "icon": "fa fa-heart-o",
-      "name": "Personal Care",
-      "text": "Bathing, Dressing, Grooming, Toileting"
+
+  "zh":
+  {
+    "Header": {
+      "title": "GS Home Care Service",
+      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
     },
-    {
-      "icon": "fa fa-users",
-      "name": "Companionship ",
-      "text": "Social Interaction and Emotional Support"
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Great Service",
+        "text": "We pride ourselves on going above and beyond the standard of care. From attentive daily support to prompt communication, our team is here to ensure you always feel heard, respected, and well cared for."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Good Samaritan",
+        "text": "Compassion and empathy guide everything we do. Our caregivers are ready to lend a listening ear, offer a helping hand, and provide genuine companionship, bringing warmth and support into your everyday life."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Good Shepherd",
+        "text": "Trust and guidance are at the heart of our approach. We work alongside you or your loved ones, helping maintain independence while ensuring a nurturing environment, so you always feel confident and safe in our care."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Golden Standard",
+        "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
+      }
+    ],
+    "About": {
+      "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "Why": [
+        "Timely, Reliable Support",
+        "Personalized Care Plans"
+      ],
+      "Why2": [
+        "Compassionate, Dedicated Team",
+        "Peace of Mind for your family"
+      ]
     },
-    {
-      "icon": "fa fa-briefcase",
-      "name": "Household Assistance",
-      "text": "Light housekeeping, Preparation, and Laundry"
-    },
-    {
-      "icon": "fa fa-car",
-      "name": "Mobility Support",
-      "text": "Transfers, Ambulation assistance"
-    },
-    {
-      "icon": "fa fa-bell",
-      "name": "Medication Reminders",
-      "text": "Ensuring client take prescribed medication on time"
-    },
-    {
-      "icon": "fa fa-medkit",
-      "name": "Respite Care",
-      "text": "Temporary relief for family caregivers"
+    "Services": [
+      {
+        "icon": "fa fa-heart-o",
+        "name": "Personal Care",
+        "text": "Bathing, Dressing, Grooming, Toileting"
+      },
+      {
+        "icon": "fa fa-users",
+        "name": "Companionship ",
+        "text": "Social Interaction and Emotional Support"
+      },
+      {
+        "icon": "fa fa-briefcase",
+        "name": "Household Assistance",
+        "text": "Light housekeeping, Preparation, and Laundry"
+      },
+      {
+        "icon": "fa fa-car",
+        "name": "Mobility Support",
+        "text": "Transfers, Ambulation assistance"
+      },
+      {
+        "icon": "fa fa-bell",
+        "name": "Medication Reminders",
+        "text": "Ensuring client take prescribed medication on time"
+      },
+      {
+        "icon": "fa fa-medkit",
+        "name": "Respite Care",
+        "text": "Temporary relief for family caregivers"
+      }
+    ],
+    "Gallery": [
+      {
+        "title": "Picture 1",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Picture 2",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Picture 3",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Picture 4",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Picture 5",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Picture 6",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Picture 7",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Picture 8",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Picture 9",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "(insert sentences)",
+        "name": "(client1)"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "(insert sentences)",
+        "name": "(client2)"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "(insert sentences)",
+        "name": "(client3)"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "(insert sentences)",
+        "name": "(client4)"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "(insert sentences)",
+        "name": "(client5)"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "(insert sentences)",
+        "name": "(client6)"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ],
+    "Contact": {
+      "address": "867 Frostwood Dr, Houston, 77024",
+      "phone": "+1 (346)-324-8549",
+      "email": "gscare2u@gmail.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
     }
-  ],
-  "Gallery": [
-    {
-      "title": "Picture 1",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+  }, 
+  "ko":
+  {
+    "Header": {
+      "title": "GS Home Care Service",
+      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
     },
-    {
-      "title": "Picture 2",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Great Service",
+        "text": "We pride ourselves on going above and beyond the standard of care. From attentive daily support to prompt communication, our team is here to ensure you always feel heard, respected, and well cared for."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Good Samaritan",
+        "text": "Compassion and empathy guide everything we do. Our caregivers are ready to lend a listening ear, offer a helping hand, and provide genuine companionship, bringing warmth and support into your everyday life."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Good Shepherd",
+        "text": "Trust and guidance are at the heart of our approach. We work alongside you or your loved ones, helping maintain independence while ensuring a nurturing environment, so you always feel confident and safe in our care."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Golden Standard",
+        "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
+      }
+    ],
+    "About": {
+      "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "Why": [
+        "Timely, Reliable Support",
+        "Personalized Care Plans"
+      ],
+      "Why2": [
+        "Compassionate, Dedicated Team",
+        "Peace of Mind for your family"
+      ]
     },
-    {
-      "title": "Picture 3",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Picture 4",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Picture 5",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Picture 6",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Picture 7",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Picture 8",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Picture 9",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+    "Services": [
+      {
+        "icon": "fa fa-heart-o",
+        "name": "Personal Care",
+        "text": "Bathing, Dressing, Grooming, Toileting"
+      },
+      {
+        "icon": "fa fa-users",
+        "name": "Companionship ",
+        "text": "Social Interaction and Emotional Support"
+      },
+      {
+        "icon": "fa fa-briefcase",
+        "name": "Household Assistance",
+        "text": "Light housekeeping, Preparation, and Laundry"
+      },
+      {
+        "icon": "fa fa-car",
+        "name": "Mobility Support",
+        "text": "Transfers, Ambulation assistance"
+      },
+      {
+        "icon": "fa fa-bell",
+        "name": "Medication Reminders",
+        "text": "Ensuring client take prescribed medication on time"
+      },
+      {
+        "icon": "fa fa-medkit",
+        "name": "Respite Care",
+        "text": "Temporary relief for family caregivers"
+      }
+    ],
+    "Gallery": [
+      {
+        "title": "Picture 1",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Picture 2",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Picture 3",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Picture 4",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Picture 5",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Picture 6",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Picture 7",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Picture 8",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Picture 9",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "(insert sentences)",
+        "name": "(client1)"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "(insert sentences)",
+        "name": "(client2)"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "(insert sentences)",
+        "name": "(client3)"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "(insert sentences)",
+        "name": "(client4)"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "(insert sentences)",
+        "name": "(client5)"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "(insert sentences)",
+        "name": "(client6)"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ],
+    "Contact": {
+      "address": "867 Frostwood Dr, Houston, 77024",
+      "phone": "+1 (346)-324-8549",
+      "email": "gscare2u@gmail.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
     }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "(insert sentences)",
-      "name": "(client1)"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "(insert sentences)",
-      "name": "(client2)"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "(insert sentences)",
-      "name": "(client3)"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "(insert sentences)",
-      "name": "(client4)"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "(insert sentences)",
-      "name": "(client5)"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "(insert sentences)",
-      "name": "(client6)"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
-  "Contact": {
-    "address": "867 Frostwood Dr, Houston, 77024",
-    "phone": "+1 (346)-324-8549",
-    "email": "gscare2u@gmail.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
   }
-  
+
+ 
 }
