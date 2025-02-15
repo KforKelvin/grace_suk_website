@@ -181,120 +181,120 @@
     }
   },
 
-  "zh":
-  {
+  
+  "zh": {
     "Header": {
-      "title": "GS Home Care Service",
-      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
+      "title": "GS 家庭护理服务",
+      "paragraph": "卓越服务，成仁济世，善牧渡人，金标准"
     },
     "Features": [
       {
         "icon": "fa fa-comments-o",
-        "title": "Great Service",
-        "text": "We pride ourselves on going above and beyond the standard of care. From attentive daily support to prompt communication, our team is here to ensure you always feel heard, respected, and well cared for."
+        "title": "卓越服务",
+        "text": "我们以超越护理标准而自豪。从细心的日常支持到及时的沟通，我们的团队随时确保您始终感到被倾听、被尊重，并得到悉心照顾。"
       },
       {
         "icon": "fa fa-bullhorn",
-        "title": "Good Samaritan",
-        "text": "Compassion and empathy guide everything we do. Our caregivers are ready to lend a listening ear, offer a helping hand, and provide genuine companionship, bringing warmth and support into your everyday life."
+        "title": "成仁济世",
+        "text": "同情心和共情是我们一切工作的核心。我们的护理人员随时准备倾听、提供帮助，并提供真诚的陪伴，为您的日常生活带来温暖和支持。"
       },
       {
         "icon": "fa fa-group",
-        "title": "Good Shepherd",
-        "text": "Trust and guidance are at the heart of our approach. We work alongside you or your loved ones, helping maintain independence while ensuring a nurturing environment, so you always feel confident and safe in our care."
+        "title": "善牧渡人",
+        "text": "信任和引导是我们护理方法的核心。我们与您或您的亲人携手合作，在确保安全和关爱的环境下帮助您保持独立，让您始终感到安心和信赖。"
       },
       {
         "icon": "fa fa-magic",
-        "title": "Golden Standard",
-        "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
+        "title": "金牌标准",
+        "text": "我们在所有服务方面都保持最高标准。从个性化护理计划到持续质量检查，我们努力超越期望，树立家庭护理服务的新标杆。"
       }
     ],
     "About": {
-      "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "paragraph": "GS 家庭护理是一家获得德克萨斯州许可的初级家庭护理 (PHC) 机构，正式获得德克萨斯州健康与人类服务部批准提供个人辅助服务 (PAS)。",
       "Why": [
-        "Timely, Reliable Support",
-        "Personalized Care Plans"
+        "及时可靠的支持",
+        "个性化护理计划"
       ],
       "Why2": [
-        "Compassionate, Dedicated Team",
-        "Peace of Mind for your family"
+        "富有同情心且敬业的团队",
+        "让您的家人安心"
       ]
     },
     "Services": [
       {
         "icon": "fa fa-heart-o",
-        "name": "Personal Care",
-        "text": "Bathing, Dressing, Grooming, Toileting"
+        "name": "个人护理",
+        "text": "洗澡、更衣、梳理、如厕"
       },
       {
         "icon": "fa fa-users",
-        "name": "Companionship ",
-        "text": "Social Interaction and Emotional Support"
+        "name": "陪伴服务",
+        "text": "社交互动与情感支持"
       },
       {
         "icon": "fa fa-briefcase",
-        "name": "Household Assistance",
-        "text": "Light housekeeping, Preparation, and Laundry"
+        "name": "家务协助",
+        "text": "轻度家务、餐食准备和洗衣"
       },
       {
         "icon": "fa fa-car",
-        "name": "Mobility Support",
-        "text": "Transfers, Ambulation assistance"
+        "name": "行动支持",
+        "text": "转移、行走辅助"
       },
       {
         "icon": "fa fa-bell",
-        "name": "Medication Reminders",
-        "text": "Ensuring client take prescribed medication on time"
+        "name": "用药提醒",
+        "text": "确保客户按时服用处方药"
       },
       {
         "icon": "fa fa-medkit",
-        "name": "Respite Care",
-        "text": "Temporary relief for family caregivers"
+        "name": "暂托护理",
+        "text": "为家庭护理者提供临时缓解"
       }
     ],
     "Gallery": [
       {
-        "title": "Picture 1",
+        "title": "图片 1",
         "largeImage": "img/portfolio/01-large.jpg",
         "smallImage": "img/portfolio/01-small.jpg"
       },
       {
-        "title": "Picture 2",
+        "title": "图片 2",
         "largeImage": "img/portfolio/02-large.jpg",
         "smallImage": "img/portfolio/02-small.jpg"
       },
       {
-        "title": "Picture 3",
+        "title": "图片 3",
         "largeImage": "img/portfolio/03-large.jpg",
         "smallImage": "img/portfolio/03-small.jpg"
       },
       {
-        "title": "Picture 4",
+        "title": "图片 4",
         "largeImage": "img/portfolio/04-large.jpg",
         "smallImage": "img/portfolio/04-small.jpg"
       },
       {
-        "title": "Picture 5",
+        "title": "图片 5",
         "largeImage": "img/portfolio/05-large.jpg",
         "smallImage": "img/portfolio/05-small.jpg"
       },
       {
-        "title": "Picture 6",
+        "title": "图片 6",
         "largeImage": "img/portfolio/06-large.jpg",
         "smallImage": "img/portfolio/06-small.jpg"
       },
       {
-        "title": "Picture 7",
+        "title": "图片 7",
         "largeImage": "img/portfolio/07-large.jpg",
         "smallImage": "img/portfolio/07-small.jpg"
       },
       {
-        "title": "Picture 8",
+        "title": "图片 8",
         "largeImage": "img/portfolio/08-large.jpg",
         "smallImage": "img/portfolio/08-small.jpg"
       },
       {
-        "title": "Picture 9",
+        "title": "图片 9",
         "largeImage": "img/portfolio/09-large.jpg",
         "smallImage": "img/portfolio/09-small.jpg"
       }
@@ -302,55 +302,55 @@
     "Testimonials": [
       {
         "img": "img/testimonials/01.jpg",
-        "text": "(insert sentences)",
-        "name": "(client1)"
+        "text": "(插入句子)",
+        "name": "(客户1)"
       },
       {
         "img": "img/testimonials/02.jpg",
-        "text": "(insert sentences)",
-        "name": "(client2)"
+        "text": "(插入句子)",
+        "name": "(客户2)"
       },
       {
         "img": "img/testimonials/03.jpg",
-        "text": "(insert sentences)",
-        "name": "(client3)"
+        "text": "(插入句子)",
+        "name": "(客户3)"
       },
       {
         "img": "img/testimonials/04.jpg",
-        "text": "(insert sentences)",
-        "name": "(client4)"
+        "text": "(插入句子)",
+        "name": "(客户4)"
       },
       {
         "img": "img/testimonials/05.jpg",
-        "text": "(insert sentences)",
-        "name": "(client5)"
+        "text": "(插入句子)",
+        "name": "(客户5)"
       },
       {
         "img": "img/testimonials/06.jpg",
-        "text": "(insert sentences)",
-        "name": "(client6)"
+        "text": "(插入句子)",
+        "name": "(客户6)"
       }
     ],
     "Team": [
       {
         "img": "img/team/01.jpg",
-        "name": "John Doe",
-        "job": "Director"
+        "name": "约翰·多伊",
+        "job": "主任"
       },
       {
         "img": "img/team/02.jpg",
-        "name": "Mike Doe",
-        "job": "Senior Designer"
+        "name": "迈克·多伊",
+        "job": "高级设计师"
       },
       {
         "img": "img/team/03.jpg",
-        "name": "Jane Doe",
-        "job": "Senior Designer"
+        "name": "简·多伊",
+        "job": "高级设计师"
       },
       {
         "img": "img/team/04.jpg",
-        "name": "Karen Doe",
-        "job": "Project Manager"
+        "name": "凯伦·多伊",
+        "job": "项目经理"
       }
     ],
     "Contact": {
@@ -361,7 +361,10 @@
       "twitter": "twitter.com",
       "youtube": "youtube.com"
     }
-  }, 
+  },
+
+  
+
   "ko":
   {
     "Header": {
