@@ -371,6 +371,7 @@
       "title": "GS Home Care Service",
       "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
     },
+
     "Features": [
       {
         "icon": "fa fa-comments-o",
@@ -393,6 +394,7 @@
         "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
       }
     ],
+
     "About": {
       "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
       "Why": [
@@ -404,6 +406,7 @@
         "Peace of Mind for your family"
       ]
     },
+
     "Services": [
       {
         "icon": "fa fa-heart-o",
@@ -436,6 +439,7 @@
         "text": "Temporary relief for family caregivers"
       }
     ],
+    
     "Gallery": [
       {
         "title": "Picture 1",

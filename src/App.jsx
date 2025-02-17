@@ -19,7 +19,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
-  const [language, setLanguage] = useState("zh");
+  const [language, setLanguage] = useState("en");
   
   useEffect(() => {
     // Load the appropriate language data
