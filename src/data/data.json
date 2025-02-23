@@ -185,34 +185,34 @@
   "zh": {
     "Header": {
       "title": "GS 家庭护理服务",
-      "paragraph": "卓越服务，成仁济世，善牧渡人，金标准"
+      "paragraph": "卓越服务，成仁济世，善牧渡人，金牌标准"
     },
     "Features": [
       {
         "icon": "fa fa-comments-o",
         "title": "卓越服务",
-        "text": "我们以超越护理标准而自豪。从细心的日常支持到及时的沟通，我们的团队随时确保您始终感到被倾听、被尊重，并得到悉心照顾。"
+        "text": "我们提供卓越的标准而自豪。从细致的日常服务到及时的沟通，我们的团队随时确保您始终感到被倾听、被尊重。"
       },
       {
         "icon": "fa fa-bullhorn",
         "title": "成仁济世",
-        "text": "同情心和共情是我们一切工作的核心。我们的护理人员随时准备倾听、提供帮助，并提供真诚的陪伴，为您的日常生活带来温暖和支持。"
+        "text": "同情心和共情是我们一切工作的核心。我们的护理人员随时准备提供帮助，并提供真诚的陪伴。"
       },
       {
         "icon": "fa fa-group",
         "title": "善牧渡人",
-        "text": "信任和引导是我们护理方法的核心。我们与您或您的亲人携手合作，在确保安全和关爱的环境下帮助您保持独立，让您始终感到安心和信赖。"
+        "text": "我们会与您或您的亲人携手合作，帮助您保持独立，让您始终感到安心和信赖。"
       },
       {
         "icon": "fa fa-magic",
         "title": "金牌标准",
-        "text": "我们在所有服务方面都保持最高标准。从个性化护理计划到持续质量检查，我们努力超越期望，树立家庭护理服务的新标杆。"
+        "text": "个性化护理计划，志在提供最满意的服务。"
       }
     ],
     "About": {
       "paragraph": "GS 家庭护理是一家获得德克萨斯州许可的初级家庭护理 (PHC) 机构，正式获得德克萨斯州健康与人类服务部批准提供个人辅助服务 (PAS)。",
       "Why": [
-        "及时可靠的支持",
+        "及时可靠的服务",
         "个性化护理计划"
       ],
       "Why2": [
@@ -234,22 +234,22 @@
       {
         "icon": "fa fa-briefcase",
         "name": "家务协助",
-        "text": "轻度家务、餐食准备和洗衣"
+        "text": "轻度家务、餐食准备"
       },
       {
         "icon": "fa fa-car",
         "name": "行动支持",
-        "text": "转移、行走辅助"
+        "text": "专车接送、辅助"
       },
       {
         "icon": "fa fa-bell",
         "name": "用药提醒",
-        "text": "确保客户按时服用处方药"
+        "text": "确保按时服药"
       },
       {
         "icon": "fa fa-medkit",
         "name": "暂托护理",
-        "text": "为家庭护理者提供临时缓解"
+        "text": "提供临时照顾"
       }
     ],
     "Gallery": [
@@ -373,27 +373,28 @@
     },
 
     "Features": [
-      {
-        "icon": "fa fa-comments-o",
-        "title": "Great Service",
-        "text": "We pride ourselves on going above and beyond the standard of care. From attentive daily support to prompt communication, our team is here to ensure you always feel heard, respected, and well cared for."
-      },
-      {
-        "icon": "fa fa-bullhorn",
-        "title": "Good Samaritan",
-        "text": "Compassion and empathy guide everything we do. Our caregivers are ready to lend a listening ear, offer a helping hand, and provide genuine companionship, bringing warmth and support into your everyday life."
-      },
-      {
-        "icon": "fa fa-group",
-        "title": "Good Shepherd",
-        "text": "Trust and guidance are at the heart of our approach. We work alongside you or your loved ones, helping maintain independence while ensuring a nurturing environment, so you always feel confident and safe in our care."
-      },
-      {
-        "icon": "fa fa-magic",
-        "title": "Golden Standard",
-        "text": "We hold ourselves to the highest level of excellence in all aspects of service. From personalized care plans to continuous quality checks, we strive to exceed expectations and set a new benchmark for home care services."
-      }
-    ],
+        {
+          "icon": "fa fa-comments-o",
+          "title": "Great Service",
+          "text": "GS홈케어서비스는 단순히 돌봄의 기준을 넘어서 최선을 다하는것을 자랑스럽게 생각합니다. 세심한 일일 지원부터 신속한 의사소통까지 저희팀은 여러분이 항상 존중받고, 배려받으며,최고의 서비스를 받을수 있도록 노력하고 있습니다."
+        },
+        {
+          "icon": "fa fa-bullhorn",
+          "title": "Good Samaritan",
+          "text":  "GS 홈케어 사회복지사들은 여러분의 진정한 이웃이 되어 부모님들의 필요에 귀 기울여 듣고, 도움의 손길을 내밀며, 진정한 동반자가 되어 따듯함과 지지를 여러분의 일상에 전해드립니다 "
+        },
+        {
+          "icon": "fa fa-group",
+          "title": "Good Shepherd",
+          "text": "신뢰와 정직은 GS홈케어의 가장 중심입니다. 우리는 부모님들과 자녀들과 함께하며, 독립성을 유지하도록 돕는 동시에 따듯하고 배려하는 환경을 조성하여, 항상 우리의 돌봄 속에서 자신감과 안전함을 느낄수 있도록 합니다."
+        },
+        {
+          "icon": "fa fa-magic",
+          "title": "Golden Standard",
+          "text": "GS 홈케어 는 서비스의 모든 측면에서 최고 수준의 탁월함을 유지하기 위해 노력합니다. 개개인의 필요에 맟춤부터 노인대학의 수준으로 다양한 문화 프로그램을 제공합니다."
+        }
+      ],
+
 
     "About": {
       "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
@@ -411,35 +412,34 @@
       {
         "icon": "fa fa-heart-o",
         "name": "Personal Care",
-        "text": "Bathing, Dressing, Grooming, Toileting"
+        "text": "목욕, 식사, 옷입기등 일상활동에 대한 도움"
       },
       {
         "icon": "fa fa-users",
         "name": "Companionship ",
-        "text": "Social Interaction and Emotional Support"
+        "text": "사회적 상호작용 및 정서적 지원"
       },
       {
         "icon": "fa fa-briefcase",
         "name": "Household Assistance",
-        "text": "Light housekeeping, Preparation, and Laundry"
+        "text": "가벼운 집안일 및 세탁"
       },
       {
         "icon": "fa fa-car",
         "name": "Mobility Support",
-        "text": "Transfers, Ambulation assistance"
+        "text": "자동차로 라이드,병원예약및 동반,영어가 불편하신분들은 한국어로 통역 등의 지원"
       },
       {
         "icon": "fa fa-bell",
         "name": "Medication Reminders",
-        "text": "Ensuring client take prescribed medication on time"
+        "text": "의사에게서 처방받은 약들을 시간에 마추어서 정확한 용량으로 드시도록 도와드림"
       },
       {
         "icon": "fa fa-medkit",
         "name": "Respite Care",
-        "text": "Temporary relief for family caregivers"
+        "text": "일시적으로 도움이 필요하신분들을 위한 서비스"
       }
     ],
-    
     "Gallery": [
       {
         "title": "Picture 1",
