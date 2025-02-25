@@ -19,7 +19,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
-  const [language, setLanguage] = useState("ko");
+  const [language, setLanguage] = useState("en");
   
   useEffect(() => {
     // Load the appropriate language data
@@ -33,15 +33,15 @@ const App = () => {
   return (
     <div>
       {/* <Navigation /> */}
-      <Navigation onLanguageChange={handleLanguageChange} />
+      <Navigation onLanguageChange={handleLanguageChange} data={landingPageData.Navigation}/>
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      <Features data={landingPageData.Features} title={landingPageData.FeaturesSection?.title} />
       <About data={landingPageData.About} />
-      <Services data={landingPageData.Services} />
-      <Gallery data={landingPageData.Gallery} />
+      <Services data={landingPageData.Services} sectionData={landingPageData.ServicesSection}/>
+      <Gallery data={landingPageData.Gallery} sectionData={landingPageData.GallerySection}/>
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       {/* <Team data={landingPageData.Team} /> */}
-      <Contact data={landingPageData.Contact} />
+      <Contact data={landingPageData.Contact}/>
     </div>
   );
 };

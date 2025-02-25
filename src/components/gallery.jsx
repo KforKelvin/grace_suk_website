@@ -6,7 +6,7 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>{props.sectionData ? props.sectionData.title : "Gallery"}</h2>
           <p>
             {/* (Gallery paragraph) */}
           </p>

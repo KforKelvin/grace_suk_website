@@ -1,9 +1,22 @@
 {
   "en":
   {
+    "Navigation": {
+      "brand": "GS Home Care Service",
+      "features": "Features",
+      "about": "About",
+      "services": "Services",
+      "gallery": "Gallery",
+      "contact": "Contact",
+      "language": "Language"
+    },
     "Header": {
       "title": "GS Home Care Service",
-      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
+      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard",
+      "learnMore": "Learn More"
+    },
+    "FeaturesSection": {
+      "title": "Features"
     },
     "Features": [
       {
@@ -28,7 +41,9 @@
       }
     ],
     "About": {
+      "aboutus":"About Us",
       "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "whychooseus": "Why Choose Us?",
       "Why": [
         "Timely, Reliable Support",
         "Personalized Care Plans"
@@ -37,6 +52,10 @@
         "Compassionate, Dedicated Team",
         "Peace of Mind for your family"
       ]
+    },
+    "ServicesSection": {
+      "title": "Our Services",
+      "paragraph": "Description for Our Services (optional)"
     },
     "Services": [
       {
@@ -70,6 +89,10 @@
         "text": "Temporary relief for family caregivers"
       }
     ],
+    "GallerySection":{
+      "title": "相册",
+      "paragraph": ""
+    },
     "Gallery": [
       {
         "title": "Picture 1",
@@ -171,21 +194,51 @@
         "job": "Project Manager"
       }
     ],
+    "ContactSection":{
+      "title": "Get In Touch",
+      "description": "Please fill out the form below to send us an email and we will get back to you as soon as possible.",
+      "sendMessage": "Send Message",
+      "contactInfo": "Contact Info",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email"
+    },
     "Contact": {
       "address": "867 Frostwood Dr, Houston, 77024",
       "phone": "+1 (346)-324-8549",
       "email": "gscare2u@gmail.com",
       "facebook": "fb.com",
       "twitter": "twitter.com",
-      "youtube": "youtube.com"
+      "youtube": "youtube.com",
+
+      "title": "Get In Touch",
+      "description": "Please fill out the form below to send us an email and we will get back to you as soon as possible.",
+      "sendMessage": "Send Message",
+      "contactInfo": "Contact Us",
+      "contactInfoLabel": "Contact Info",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email"
     }
   },
-
   
   "zh": {
+    "Navigation": {
+      "brand": "GS 家庭护理服务",
+      "features": "特点",
+      "about": "关于我们",
+      "services": "服务",
+      "gallery": "相册",
+      "contact": "联系我们",
+      "language": "语言"
+    },
     "Header": {
       "title": "GS 家庭护理服务",
-      "paragraph": "卓越服务，成仁济世，善牧渡人，金牌标准"
+      "paragraph": "卓越服务，成仁济世，善牧渡人，金牌标准",
+      "learnMore": "了解更多"
+    },
+    "FeaturesSection": {
+      "title": "特点"
     },
     "Features": [
       {
@@ -210,7 +263,9 @@
       }
     ],
     "About": {
-      "paragraph": "GS 家庭护理是一家获得德克萨斯州许可的初级家庭护理 (PHC) 机构，正式获得德克萨斯州健康与人类服务部批准提供个人辅助服务 (PAS)。",
+      "aboutus": "关于我们",
+      "paragraph": "GS护理是一家获得德克萨斯州许可的初级家庭护理 (PHC) 机构，正式获得德州医保部批准提供个人辅助服务 (PAS)。",
+      "whychooseus": "为什么选择我们？",
       "Why": [
         "及时可靠的服务",
         "个性化护理计划"
@@ -219,6 +274,10 @@
         "富有同情心且敬业的团队",
         "让您的家人安心"
       ]
+    },
+    "ServicesSection": {
+      "title": "我们的服务",
+      "paragraph": ""
     },
     "Services": [
       {
@@ -252,6 +311,10 @@
         "text": "提供临时照顾"
       }
     ],
+    "GallerySection":{
+      "title": "相册",
+      "paragraph": ""
+    },
     "Gallery": [
       {
         "title": "图片 1",
@@ -353,25 +416,53 @@
         "job": "项目经理"
       }
     ],
+    "ContactSection": {
+      "title": "联系我们",
+      "description": "请填写下面的表单给我们发送电子邮件，我们会尽快回复您。",
+      "sendMessage": "发送消息",
+      "contactInfo": "联系信息",
+      "addressLabel": "地址",
+      "phoneLabel": "电话",
+      "emailLabel": "电子邮件"
+    },
     "Contact": {
       "address": "867 Frostwood Dr, Houston, 77024",
       "phone": "+1 (346)-324-8549",
       "email": "gscare2u@gmail.com",
       "facebook": "fb.com",
       "twitter": "twitter.com",
-      "youtube": "youtube.com"
+      "youtube": "youtube.com",
+
+      "title": "联系我们",
+      "description": "请填写下面的表单给我们发送电子邮件",
+      "sendMessage": "发送消息",
+      "contactInfo": "联系我们",
+      "contactInfoLabel": "联系方式",
+      "addressLabel": "地址",
+      "phoneLabel": "电话",
+      "emailLabel": "电子邮件"
     }
   },
 
-  
-
   "ko":
   {
+    "Navigation": {
+      "brand": "GS 홈케어 서비스",
+      "features": "특징",
+      "about": "소개",
+      "services": "서비스",
+      "gallery": "갤러리",
+      "contact": "문의하기",
+      "language": "언어"
+    },
     "Header": {
       "title": "GS Home Care Service",
-      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard"
+      "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard",
+      "learnMore": "자세히 알아보기"
     },
-
+    "FeaturesSection": {
+      "title": "feature"
+    },
     "Features": [
         {
           "icon": "fa fa-comments-o",
@@ -393,11 +484,11 @@
           "title": "Golden Standard",
           "text": "GS 홈케어 는 서비스의 모든 측면에서 최고 수준의 탁월함을 유지하기 위해 노력합니다. 개개인의 필요에 맟춤부터 노인대학의 수준으로 다양한 문화 프로그램을 제공합니다."
         }
-      ],
-
-
+    ],
     "About": {
+      "aboutus": "회사 소개",
       "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "whychooseus": "왜 저희를 선택해야 하나요?",
       "Why": [
         "Timely, Reliable Support",
         "Personalized Care Plans"
@@ -407,7 +498,10 @@
         "Peace of Mind for your family"
       ]
     },
-
+    "ServicesSection": {
+      "title": "우리 서비스",
+      "paragraph": ""
+    },
     "Services": [
       {
         "icon": "fa fa-heart-o",
@@ -440,6 +534,10 @@
         "text": "일시적으로 도움이 필요하신분들을 위한 서비스"
       }
     ],
+    "GallerySection":{
+      "title": "갤러리",
+      "paragraph": ""
+    },
     "Gallery": [
       {
         "title": "Picture 1",
@@ -547,7 +645,16 @@
       "email": "gscare2u@gmail.com",
       "facebook": "fb.com",
       "twitter": "twitter.com",
-      "youtube": "youtube.com"
+      "youtube": "youtube.com",
+
+      "title": "연락하기",
+      "description": "아래 양식을 작성하여 이메일을 보내주시면 가능한 한 빨리 답변드리겠습니다.",
+      "sendMessage": "메시지 보내기",
+      "contactInfo": "문의하기",
+      "contactInfoLabel": "연락처",
+      "addressLabel": "주소",
+      "phoneLabel": "전화번호",
+      "emailLabel": "이메일"
     }
   }
 
