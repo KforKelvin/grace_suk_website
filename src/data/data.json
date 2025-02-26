@@ -456,7 +456,7 @@
       "language": "언어"
     },
     "Header": {
-      "title": "GS Home Care Service",
+      "title": "GS 홈케어 서비스",
       "paragraph": "Great Service, Good Samaritan, Good Shepherd, and Gold Standard",
       "learnMore": "자세히 알아보기"
     },
@@ -487,15 +487,15 @@
     ],
     "About": {
       "aboutus": "회사 소개",
-      "paragraph": "GS Home Care is a Primary Home Care (PHC) agency licensed for Personal Assistance Services (PAS) by the state of Texas and formally approved by Texas Health and Human Services.",
+      "paragraph": "GS 홈 케어는 텍사스 주에서 개인 보조 서비스(PAS) 제공을 위한 라이센스를 받은 주요 홈 케어(PHC) 기관이며, 텍사스 건강 및 인적 서비스부(Texas Health and Human Services)의 공식 승인을 받았습니다.",
       "whychooseus": "왜 저희를 선택해야 하나요?",
       "Why": [
-        "Timely, Reliable Support",
-        "Personalized Care Plans"
+        "신속하고 신뢰할 수 있는 지원",
+        "맞춤형 케어 플랜"
       ],
       "Why2": [
-        "Compassionate, Dedicated Team",
-        "Peace of Mind for your family"
+        "따뜻하고 헌신적인 팀",
+        "가족을 위한 안심 서비스"
       ]
     },
     "ServicesSection": {
