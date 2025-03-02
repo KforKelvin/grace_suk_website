@@ -14,7 +14,7 @@ export const Features = (props) => {
                   {" "}
                   <i className={d.icon}></i>
                   <h3 style={{ fontSize: "22px" }}>{d.title}</h3>
-                  <p style={{ fontSize: "20px" }}>{d.text}</p>
+                  <p style={{ fontSize: "20px", textAlign: "justify" }} >{d.text}</p>
                 </div>
               ))
             : "Loading..."}
