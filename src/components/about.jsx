@@ -12,14 +12,14 @@ export const About = (props) => {
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
             <h2>{props.data ? props.data.aboutus : "About Us"}</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>{props.data ? props.data.whychooseus : "Why Choose Us?"}</h3>
+              <p style={{ fontSize: "20px" }} >{props.data ? props.data.paragraph : "loading..."}</p>
+              <h2>{props.data ? props.data.whychooseus : "Why Choose Us?"}</h2>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
                     {props.data
                       ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
+                          <li style={{ fontSize: "18px" }} key={`${d}-${i}`}>{d}</li>
                         ))
                       : "loading"}
                   </ul>

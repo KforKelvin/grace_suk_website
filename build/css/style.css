@@ -168,10 +168,10 @@ hr {
   color: #fff;
   background-color: #5ca9fb;
   background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
-  padding: 14px 34px;
+  padding: 24px 44px;
   letter-spacing: 1px;
-  margin: 0;
-  font-size: 15px;
+  margin: 20;
+  font-size: 20px;
   font-weight: 500;
   border-radius: 25px;
   transition: all 0.5s linear;
@@ -225,6 +225,10 @@ a:focus,
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+  padding: 15px 20px; /* Add some padding around the text */
+  border-radius: 5px; /* Optional: rounded corners */
+  /* max-width: 80%; */
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -233,12 +237,16 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #ffffff;
+  color: #333333;
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
+  /* background-color: rgba(255, 255, 255, 0.7);  */
+  padding: 15px 20px; /* Add some padding around the text */
+
+
 }
 header .intro-text {
   padding-top: 350px;

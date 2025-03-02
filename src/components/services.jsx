@@ -14,8 +14,8 @@ export const Services = (props) => {
                 <div key={`${d.name}-${i}`} className="col-md-4">
                   <i className={d.icon}></i>
                   <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    <h2>{d.name}</h2>
+                    <p style={{ fontSize: "20px" }}>{d.text}</p>
                   </div>
                 </div>
               ))

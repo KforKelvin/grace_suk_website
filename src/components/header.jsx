@@ -13,7 +13,7 @@ export const Header = (props) => {
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
                 </h1>
-                <p style={{ fontWeight: "bold" }}>{props.data ? props.data.paragraph : "Loading"}</p>
+                {/* <p style={{ fontWeight: "bold" }}>{props.data ? props.data.paragraph : "Loading"}</p> */}
                 <a
                   href="#features"
                   className="btn btn-custom btn-lg page-scroll"
