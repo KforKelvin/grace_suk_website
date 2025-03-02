@@ -28,7 +28,7 @@ export const About = (props) => {
                   <ul>
                     {props.data
                       ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
+                          <li style={{ fontSize: "18px" }} key={`${d}-${i}`}> {d}</li>
                         ))
                       : "loading"}
                   </ul>
