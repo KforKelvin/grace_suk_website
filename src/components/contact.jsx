@@ -24,14 +24,18 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_u5ejyee", "template_9ja6npd", e.target, "GNaD2r6TwCquERXf2")
       .then(
         (result) => {
           console.log(result.text);
           clearState();
+          // Add success message
+          document.getElementById("success").innerHTML = "<div class='alert alert-success'>Your message was sent successfully!</div>";
         },
         (error) => {
           console.log(error.text);
+          // Add error message
+          document.getElementById("success").innerHTML = "<div class='alert alert-danger'>Failed to send message. Please try again later.</div>";
         }
       );
   };
