@@ -364,6 +364,22 @@ header .intro-text {
   padding: 100px 0;
 }
 .portfolio-item {
+  position: relative;
+  overflow: hidden;
+  margin: 15px 0;
+}
+.portfolio-item .hover-bg {
+  height: 260px; /* Set a fixed height */
+  overflow: hidden;
+  position: relative;
+}
+.portfolio-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This is key - maintains aspect ratio while filling container */
+  transition: all 0.5s ease;
+}
+.portfolio-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
 }
