@@ -96,48 +96,33 @@
     "Gallery": [
       {
         "title": "Picture 1",
-        "largeImage": "img/portfolio/01-large.jpg",
-        "smallImage": "img/portfolio/01-small.jpg"
+        "largeImage": "img/portfolio/1-large.jpg",
+        "smallImage": "img/portfolio/1-small.png"
       },
       {
         "title": "Picture 2",
-        "largeImage": "img/portfolio/02-large.jpg",
-        "smallImage": "img/portfolio/02-small.jpg"
+        "largeImage": "img/portfolio/2-large.jpg",
+        "smallImage": "img/portfolio/2-small.png"
       },
       {
         "title": "Picture 3",
-        "largeImage": "img/portfolio/03-large.jpg",
-        "smallImage": "img/portfolio/03-small.jpg"
+        "largeImage": "img/portfolio/3-large.jpg",
+        "smallImage": "img/portfolio/3-small.png"
       },
       {
         "title": "Picture 4",
-        "largeImage": "img/portfolio/04-large.jpg",
-        "smallImage": "img/portfolio/04-small.jpg"
+        "largeImage": "img/portfolio/4-large.jpg",
+        "smallImage": "img/portfolio/4-small.png"
       },
       {
         "title": "Picture 5",
-        "largeImage": "img/portfolio/05-large.jpg",
-        "smallImage": "img/portfolio/05-small.jpg"
+        "largeImage": "img/portfolio/5-large.jpg",
+        "smallImage": "img/portfolio/5-small.png"
       },
       {
         "title": "Picture 6",
-        "largeImage": "img/portfolio/06-large.jpg",
-        "smallImage": "img/portfolio/06-small.jpg"
-      },
-      {
-        "title": "Picture 7",
-        "largeImage": "img/portfolio/07-large.jpg",
-        "smallImage": "img/portfolio/07-small.jpg"
-      },
-      {
-        "title": "Picture 8",
-        "largeImage": "img/portfolio/08-large.jpg",
-        "smallImage": "img/portfolio/08-small.jpg"
-      },
-      {
-        "title": "Picture 9",
-        "largeImage": "img/portfolio/09-large.jpg",
-        "smallImage": "img/portfolio/09-small.jpg"
+        "largeImage": "img/portfolio/6-large.jpg",
+        "smallImage": "img/portfolio/6-small.png"
       }
     ],
     "Testimonials": [
@@ -317,49 +302,34 @@
     },
     "Gallery": [
       {
-        "title": "图片 1",
-        "largeImage": "img/portfolio/01-large.jpg",
-        "smallImage": "img/portfolio/01-small.jpg"
+        "title": "Picture 1",
+        "largeImage": "img/portfolio/1-large.jpg",
+        "smallImage": "img/portfolio/1-small.png"
       },
       {
-        "title": "图片 2",
-        "largeImage": "img/portfolio/02-large.jpg",
-        "smallImage": "img/portfolio/02-small.jpg"
+        "title": "Picture 2",
+        "largeImage": "img/portfolio/2-large.jpg",
+        "smallImage": "img/portfolio/2-small.png"
       },
       {
-        "title": "图片 3",
-        "largeImage": "img/portfolio/03-large.jpg",
-        "smallImage": "img/portfolio/03-small.jpg"
+        "title": "Picture 3",
+        "largeImage": "img/portfolio/3-large.jpg",
+        "smallImage": "img/portfolio/3-small.png"
       },
       {
-        "title": "图片 4",
-        "largeImage": "img/portfolio/04-large.jpg",
-        "smallImage": "img/portfolio/04-small.jpg"
+        "title": "Picture 4",
+        "largeImage": "img/portfolio/4-large.jpg",
+        "smallImage": "img/portfolio/4-small.png"
       },
       {
-        "title": "图片 5",
-        "largeImage": "img/portfolio/05-large.jpg",
-        "smallImage": "img/portfolio/05-small.jpg"
+        "title": "Picture 5",
+        "largeImage": "img/portfolio/5-large.jpg",
+        "smallImage": "img/portfolio/5-small.png"
       },
       {
-        "title": "图片 6",
-        "largeImage": "img/portfolio/06-large.jpg",
-        "smallImage": "img/portfolio/06-small.jpg"
-      },
-      {
-        "title": "图片 7",
-        "largeImage": "img/portfolio/07-large.jpg",
-        "smallImage": "img/portfolio/07-small.jpg"
-      },
-      {
-        "title": "图片 8",
-        "largeImage": "img/portfolio/08-large.jpg",
-        "smallImage": "img/portfolio/08-small.jpg"
-      },
-      {
-        "title": "图片 9",
-        "largeImage": "img/portfolio/09-large.jpg",
-        "smallImage": "img/portfolio/09-small.jpg"
+        "title": "Picture 6",
+        "largeImage": "img/portfolio/6-large.jpg",
+        "smallImage": "img/portfolio/6-small.png"
       }
     ],
     "Testimonials": [
@@ -541,48 +511,33 @@
     "Gallery": [
       {
         "title": "Picture 1",
-        "largeImage": "img/portfolio/01-large.jpg",
-        "smallImage": "img/portfolio/01-small.jpg"
+        "largeImage": "img/portfolio/1-large.jpg",
+        "smallImage": "img/portfolio/1-small.png"
       },
       {
         "title": "Picture 2",
-        "largeImage": "img/portfolio/02-large.jpg",
-        "smallImage": "img/portfolio/02-small.jpg"
+        "largeImage": "img/portfolio/2-large.jpg",
+        "smallImage": "img/portfolio/2-small.png"
       },
       {
         "title": "Picture 3",
-        "largeImage": "img/portfolio/03-large.jpg",
-        "smallImage": "img/portfolio/03-small.jpg"
+        "largeImage": "img/portfolio/3-large.jpg",
+        "smallImage": "img/portfolio/3-small.png"
       },
       {
         "title": "Picture 4",
-        "largeImage": "img/portfolio/04-large.jpg",
-        "smallImage": "img/portfolio/04-small.jpg"
+        "largeImage": "img/portfolio/4-large.jpg",
+        "smallImage": "img/portfolio/4-small.png"
       },
       {
         "title": "Picture 5",
-        "largeImage": "img/portfolio/05-large.jpg",
-        "smallImage": "img/portfolio/05-small.jpg"
+        "largeImage": "img/portfolio/5-large.jpg",
+        "smallImage": "img/portfolio/5-small.png"
       },
       {
         "title": "Picture 6",
-        "largeImage": "img/portfolio/06-large.jpg",
-        "smallImage": "img/portfolio/06-small.jpg"
-      },
-      {
-        "title": "Picture 7",
-        "largeImage": "img/portfolio/07-large.jpg",
-        "smallImage": "img/portfolio/07-small.jpg"
-      },
-      {
-        "title": "Picture 8",
-        "largeImage": "img/portfolio/08-large.jpg",
-        "smallImage": "img/portfolio/08-small.jpg"
-      },
-      {
-        "title": "Picture 9",
-        "largeImage": "img/portfolio/09-large.jpg",
-        "smallImage": "img/portfolio/09-small.jpg"
+        "largeImage": "img/portfolio/6-large.jpg",
+        "smallImage": "img/portfolio/6-small.png"
       }
     ],
     "Testimonials": [
