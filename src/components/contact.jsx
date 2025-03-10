@@ -53,7 +53,7 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
-          <div className="col-md-8">
+          <div className="col-md-6">
             <div className="row">
               <div className="section-title">
                 <h2>{props.data ? props.data.contactInfo : "loading"}</h2>
@@ -114,11 +114,11 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
-          <div className="col-md-3 col-md-offset-1 contact-info">
+          <div className="col-md-5 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>{props.data ? props.data.contactInfoLabel: "loading"}</h3>
-              <p>
-                <span>
+              <h3 style={{fontSize: "25px"}}>{props.data ? props.data.contactInfoLabel: "loading"}</h3>
+              <p style={{ fontSize: "25px" }}>
+                <span style={{ fontSize: "30px" }} >
                   <i className="fa fa-map-marker"></i> 
                   {props.data ? props.data.addressLabel: "loading"}
                 </span>
@@ -126,8 +126,8 @@ export const Contact = (props) => {
               </p>
             </div>
             <div className="contact-item">
-              <p>
-                <span>
+              <p style={{ fontSize: "25px" }}>
+                <span style={{ fontSize: "30px" }} >
                   <i className="fa fa-phone"></i>
                   {props.data ? props.data.phoneLabel: "loading"}
                 </span>{" "}
@@ -135,8 +135,8 @@ export const Contact = (props) => {
               </p>
             </div>
             <div className="contact-item">
-              <p>
-                <span>
+              <p style={{ fontSize: "25px" }}>
+                <span style={{ fontSize: "30px" }} >
                   <i className="fa fa-envelope-o"></i> 
                   {props.data ? props.data.emailLabel: "loading"}
                 </span>{" "}

@@ -492,13 +492,13 @@ header .intro-text {
   margin-bottom: 40px;
 }
 #contact .section-title p {
-  font-size: 16px;
+  font-size: 20px;
 }
 #contact h2 {
   color: #fff;
   margin-top: 10px;
-  margin-bottom: 15px;
-  padding-bottom: 15px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 #contact .section-title h2::after {
   position: absolute;
@@ -580,6 +580,7 @@ label {
   color: rgba(255, 255, 255, 1);
   margin-bottom: 10px;
   display: block;
+  /* size: 20px; */
 }
 #contact .contact-item i.fa {
   margin-right: 10px;
