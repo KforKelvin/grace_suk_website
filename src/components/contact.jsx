@@ -31,11 +31,21 @@ export const Contact = (props) => {
           clearState();
           // Add success message
           document.getElementById("success").innerHTML = "<div class='alert alert-success'>Your message was sent successfully!</div>";
+          
+          // Make message disappear after 2 seconds
+          setTimeout(() => {
+            document.getElementById("success").innerHTML = "";
+          }, 5000);
         },
         (error) => {
           console.log(error.text);
           // Add error message
           document.getElementById("success").innerHTML = "<div class='alert alert-danger'>Failed to send message. Please try again later.</div>";
+          
+          // Make message disappear after 2 seconds
+          setTimeout(() => {
+            document.getElementById("success").innerHTML = "";
+          }, 2000);
         }
       );
   };
@@ -62,6 +72,7 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Name"
                         required
+                        value={name}
                         onChange={handleChange}
                       />
                       <p className="help-block text-danger"></p>
@@ -76,6 +87,7 @@ export const Contact = (props) => {
                         className="form-control"
                         placeholder="Email"
                         required
+                        value={email}
                         onChange={handleChange}
                       />
                       <p className="help-block text-danger"></p>
@@ -90,6 +102,7 @@ export const Contact = (props) => {
                     rows="4"
                     placeholder="Message"
                     required
+                    value={message}
                     onChange={handleChange}
                   ></textarea>
                   <p className="help-block text-danger"></p>
