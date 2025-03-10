@@ -24,7 +24,7 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("service_u5ejyee", "template_9ja6npd", e.target, "GNaD2r6TwCquERXf2")
+      .sendForm("service_7lktw5i", "template_2nl9i2i", e.target, "lIaI12YyGR7FULqJc")
       .then(
         (result) => {
           console.log(result.text);
@@ -45,7 +45,7 @@ export const Contact = (props) => {
           // Make message disappear after 2 seconds
           setTimeout(() => {
             document.getElementById("success").innerHTML = "";
-          }, 2000);
+          }, 5000);
         }
       );
   };
