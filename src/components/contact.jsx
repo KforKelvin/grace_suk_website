@@ -5,10 +5,11 @@ import React from "react";
 const initialState = {
   name: "",
   email: "",
+  phone:"",
   message: "",
 };
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [{ name, email, phone, message }, setState] = useState(initialState);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -94,6 +95,21 @@ export const Contact = (props) => {
                     </div>
                   </div>
                 </div>
+
+                {/* Add Phone Number Field */}
+                <div className="form-group">
+                  <input
+                    type="tel"
+                    id="phone"
+                    name="phone"
+                    className="form-control"
+                    placeholder="Phone Number"
+                    value={phone}
+                    onChange={handleChange}
+                  />
+                  <p className="help-block text-danger"></p>
+                </div>
+
                 <div className="form-group">
                   <textarea
                     name="message"
